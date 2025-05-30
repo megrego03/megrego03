@@ -3,13 +3,13 @@
 <!--
 **megrego03/megrego03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some things about me:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Full Stack Web Development at ASU.
-- 🌱 I’m currently learning coding (HTML, CSS, and GitHub pages) and product design. 
-- 🎯 My goal is to become a Web Developer.
-- 🧠 Skills: HTML, CSS, GitHub, Visual Studio Code
-- ⚡ Fun fact: I'm writing a book. 
+- 🛠️ I’m currently working on **Full Stack Web Development** at ASU.  
+- 🎨 I’m learning **HTML, CSS, GitHub Pages**, and **Product Design**.  
+- 🎯 My goal is to become a **Web Developer**.  
+- 🧠 Skills: HTML, CSS, GitHub, Visual Studio Code  
+- ⚡ Fun fact: I'm writing a book.
 -->
 
 ## 📈 GitHub Stats
