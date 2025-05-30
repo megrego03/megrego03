@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+
 <!--
 **megrego03/megrego03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ## 🙋‍♂️ About Me
 
@@ -10,7 +12,7 @@
 - 🎯 My goal is to become a **Web Developer**.  
 - 🧠 Skills: HTML, CSS, GitHub, Visual Studio Code  
 - ⚡ Fun fact: I'm writing a book.
--->
+
 
 ## 📈 GitHub Stats
 
